@@ -1,0 +1,17 @@
+{
+    "name": "creteround-googlefont",
+    "license": "OFL",
+    "authors": [
+        "TypeTogether"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/creteround-bower.git"
+    },
+    "description": "Crete Round font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
